@@ -1,0 +1,23 @@
+# --- Herramientas principales de análisis ---
+pandas==2.2.3
+numpy==2.1.2
+
+# --- Visualización de datos ---
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# --- Entorno de notebooks ---
+jupyter==1.1.1
+notebook==7.2.2
+ipykernel==6.29.5
+
+# --- Librerías de soporte científico ---
+scikit-learn==1.5.2
+scipy==1.14.1
+
+# --- Limpieza y manipulación adicional (opcional) ---
+pyarrow==17.0.0
+openpyxl==3.1.5
+
+# --- Control de advertencias y mejoras de entorno ---
+python-dotenv==1.0.1

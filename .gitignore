@@ -1,0 +1,52 @@
+# === Entorno virtual ===
+venv/
+.env/
+.venv/
+ENV/
+env.bak/
+
+# === Archivos de sistema ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Archivos de Jupyter ===
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# === Archivos de datos ===
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.zip
+*.tar
+*.gz
+
+# === Logs y caché ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+
+# === Configuración temporal de editores ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Archivos de dependencias locales ===
+pip-wheel-metadata/
+*.egg-info/
+build/
+dist/
+
+# === Salidas de Jupyter Notebook ===
+*.out
+*.bak

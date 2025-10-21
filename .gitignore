@@ -17,15 +17,7 @@ desktop.ini
 # === Archivos de datos ===
 data/raw/
 *.csv
-data/processed/
-*.csv
-*.xlsx
-*.xls
-*.json
-*.parquet
-*.zip
-*.tar
-*.gz
+
 
 # === Logs y caché ===
 __pycache__/
